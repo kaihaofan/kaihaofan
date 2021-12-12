@@ -20,6 +20,7 @@ I am a Master of Science in Analytics student at the University of Chicago. Curr
   
 🌱 My skillset consistently updating / improving with:  
    - **Programming & Database Languages**: Python (Numpy, Pandas, Matplotlib, Bokeh*, statsmodels*, Scikit-Learn); R (TSA, fpp, MTS, RMarkdown); SQL (MySQL, SQLite, PostgreSQL*); Neo4j (Cypher)  
+   
    - **Statistics**: Regression (Linear & Logistic Regression, Generalized Linear Model), Hypothesis Testing, Probability  
    - **Machine Learning**: Dimension Reduction & Visualization (PCA, Linear Discriminant Analysis, t-SNE, UMAP); Supervised Learning (SVM, Decision Trees, RF, XGBoost, LightGBM, CatBoost*, etc.); Unsupervised Learning (k-means, HDBSCAN); Time Series (sARIMA, ARIMAX, TBATs, prophet, Bayesian Structural Time Series/BSTS*)  
    - **Deep Learning**: (ANN, CNN, RNN, Keras, TensorFlow)
